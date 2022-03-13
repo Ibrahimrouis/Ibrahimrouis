@@ -112,7 +112,16 @@ Hi 👋, I'm Ibrahim. A Data scientist from Tunisia.
 </br>
  </br>
 <samp>
-     Contact me on <a href="https://www.linkedin.com/in/ibrahim-rouis">Linkedin</a>, or Send an <a href="mailto:ibrahim.rouis@yahoo.com">Email</a></samp>
+ Visit me on <a href="https://www.kaggle.com/ibrahimrouis"> 
+ <img alt="Kaggle" src="http://img.shields.io/badge/-kaggle-white?style=flat-square&logo=kaggle&logoColor=20BEFF" />
+  </a> or <a href="https://www.github.com/ibrahimrouis"> 
+ <img alt="Github" src="http://img.shields.io/badge/-github-white?style=flat-square&logo=github&logoColor=181717" />
+  </a>
+ </br>
+ Contact me on      <a href="https://www.linkedin.com/in/ibrahim-rouis/">
+ <img alt="Linkedin" src="http://img.shields.io/badge/-linkedin-white?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+ </a>
+, or Send an <a href="mailto:ibrahim.rouis@yahoo.com"><img alt="Email" src="http://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail&logoColor=EA4335" /></a></samp>
 
 </p>
 
