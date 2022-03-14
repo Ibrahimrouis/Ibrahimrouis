@@ -9,6 +9,18 @@
 Hi 👋, I'm Ibrahim. A Data scientist from Tunisia.
 </samp>
  </br>
+ 
+<samp>
+These are some of the major technologies that I use or have worked on in the past:
+ </samp>
+ </br>
+ </br>
+
+<samp> 
+ <b>
+Programming Languages
+ </b>
+ </samp>
  </br>
 
 <a href="https://www.python.org/">
@@ -29,6 +41,12 @@ Hi 👋, I'm Ibrahim. A Data scientist from Tunisia.
  </a>
 </br>
 </br>
+<samp> 
+ <b>
+Machine Learning / Deep Learning frameworks and libraries </b>
+ </samp>
+ </br>
+
   <a href="https://jupyter.org/">
  <img alt="Jupyter Notebook" src="http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626" />
  </a>
@@ -43,19 +61,22 @@ Hi 👋, I'm Ibrahim. A Data scientist from Tunisia.
  </a>
      <a href="https://pytorch.org/">
  <img alt="PyTorch" src="http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+ </a>
 
   
- </br>
- </br>
 
    <a href="https://opencv.org/">
  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-eee?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4gPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjQiIGhlaWdodD0iMTUzIiB2aWV3Qm94PSIwIDAgMTY0IDE1MyIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTE0NC42MTggNzkuMTk5OEMxNTYuMTU0IDg1Ljk4NjggMTYzLjkwNyA5OC41MjIxIDE2My45MzIgMTEyLjg3N0MxNjMuOTY5IDEzNC40ODQgMTQ2LjQ4NCAxNTIuMDMxIDEyNC44NzcgMTUyLjA2OEMxMDMuMjY5IDE1Mi4xMDYgODUuNzIyNSAxMzQuNjIgODUuNjg0NyAxMTMuMDEzQzg1LjY1OTcgOTguNjU4NyA5My4zNjgzIDg2LjA5NjQgMTA0Ljg4MSA3OS4yNjkxTDExNi4xMjMgOTguMjY2NkMxMTYuNDA1IDk4Ljc0MzEgMTE2LjI0NSA5OS4zNTU0IDExNS43ODcgOTkuNjY2OUMxMTEuNTM2IDEwMi41NjEgMTA4Ljc0OCAxMDcuNDQzIDEwOC43NTggMTEyLjk3M0MxMDguNzczIDEyMS44MzcgMTE1Ljk3MiAxMjkuMDExIDEyNC44MzYgMTI4Ljk5NUMxMzMuNzAxIDEyOC45OCAxNDAuODc0IDEyMS43ODEgMTQwLjg1OSAxMTIuOTE3QzE0MC44NDkgMTA3LjM4NyAxMzguMDQ0IDEwMi41MTUgMTMzLjc4MyA5OS42MzU1QzEzMy4zMjQgOTkuMzI1NiAxMzMuMTYyIDk4LjcxMzkgMTMzLjQ0MiA5OC4yMzY0TDE0NC42MTggNzkuMTk5OFoiIGZpbGw9IiMxMjhERkYiPjwvcGF0aD48cGF0aCBkPSJNNTguMjY2OCA3OC45NzE0QzUyLjYxNzcgNzUuODA1MiA0Ni4xMDI3IDc0IDM5LjE2NjIgNzRDMTcuNTU4OCA3NCAwLjA0MjYwMjUgOTEuNTE2MiAwLjA0MjYwMjUgMTEzLjEyNEMwLjA0MjYwMjUgMTM0LjczMSAxNy41NTg4IDE1Mi4yNDcgMzkuMTY2MiAxNTIuMjQ3QzYwLjg3OTggMTUyLjI0NyA3OC44MjI5IDEzMy44MTMgNzguMjc3MSAxMTIuMTJINTYuMjUyOUM1NS42NzQ2IDExMi4xMiA1NS4yMTkyIDExMi42MDkgNTUuMjE1NSAxMTMuMTg4QzU1LjE1OTYgMTIxLjgzMyA0Ny45NDYzIDEyOS4xNzQgMzkuMTY2MiAxMjkuMTc0QzMwLjMwMTYgMTI5LjE3NCAyMy4xMTU1IDEyMS45ODggMjMuMTE1NSAxMTMuMTI0QzIzLjExNTUgMTA0LjI1OSAzMC4zMDE2IDk3LjA3MjkgMzkuMTY2MiA5Ny4wNzI5QzQxLjQ4NzYgOTcuMDcyOSA0My42OTQgOTcuNTY1NyA0NS42ODYzIDk4LjQ1MjVDNDYuMTczMiA5OC42NjkyIDQ2Ljc1NDIgOTguNTA1IDQ3LjAyNDcgOTguMDQ1OUw1OC4yNjY4IDc4Ljk3MTRaIiBmaWxsPSIjOEJEQTY3Ij48L3BhdGg+PHBhdGggZD0iTTYxLjQzMSA3Mi44MzRDNDkuOTA2MiA2Ni4wMjY4IDQyLjE3NTcgNTMuNDc3OSA0Mi4xNzU3IDM5LjEyMzVDNDIuMTc1NyAxNy41MTYyIDU5LjY5MTkgMCA4MS4yOTkyIDBDMTAyLjkwNyAwIDEyMC40MjMgMTcuNTE2MiAxMjAuNDIzIDM5LjEyMzVDMTIwLjQyMyA1My40Nzc5IDExMi42OTIgNjYuMDI2OCAxMDEuMTY3IDcyLjgzNEw4OS45NTkxIDUzLjgxNjlDODkuNjc4IDUzLjMzOTkgODkuODM4NiA1Mi43Mjc5IDkwLjI5NjggNTIuNDE3MUM5NC41NTMxIDQ5LjUzMDcgOTcuMzQ5OSA0NC42NTM3IDk3LjM0OTkgMzkuMTIzNUM5Ny4zNDk5IDMwLjI1OSA5MC4xNjM4IDIzLjA3MjkgODEuMjk5MiAyMy4wNzI5QzcyLjQzNDcgMjMuMDcyOSA2NS4yNDg1IDMwLjI1OSA2NS4yNDg1IDM5LjEyMzVDNjUuMjQ4NSA0NC42NTM3IDY4LjA0NTMgNDkuNTMwNyA3Mi4zMDE2IDUyLjQxNzFDNzIuNzU5OSA1Mi43Mjc5IDcyLjkyMDQgNTMuMzM5OSA3Mi42MzkzIDUzLjgxNjlMNjEuNDMxIDcyLjgzNFoiIGZpbGw9IiNGRjJBNDQiPjwvcGF0aD48L3N2Zz4g" />
- </a>
  </a>
 <a href="https://spacy.io/">
  <img alt="SpaCy" src="https://img.shields.io/badge/SpaCy-eee?&style=flat-square&logo=data:image/svg+xml;base64,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" />
  </a> 
 </br>
+</br>
+<samp> 
+ <b>
+Backend  </b>
+ </samp>
  </br>
 
 
@@ -84,8 +105,14 @@ Hi 👋, I'm Ibrahim. A Data scientist from Tunisia.
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098" />
  </a>
 </br>
+</br>
+<samp> 
+ <b>
+OS & IDE & Tools  </b>
+ </samp>
  </br>
-   <a href="https://git-scm.com/">
+
+<a href="https://git-scm.com/">
  <img alt="Git" src="http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032" />
  </a>
    <a href="https://www.gnu.org/software/bash/">
@@ -99,6 +126,14 @@ Hi 👋, I'm Ibrahim. A Data scientist from Tunisia.
  </a>
 </br>
  </br>
+<samp> 
+<b>
+Data visualization </b>
+</samp> 
+
+</br>
+ 
+
 <a href="https://plotly.com/">
  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-eee?style=flat-square&logo=data:image/png;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAD///8AdFJFAL/MkgB8W1AAv82SAHdVSAByT0IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmBWBmBmBmZmYGYGYGYGZmZgZgZgZgZmZmBmBmBmBmZmZmYGY2YGZmZmZgZmZgZmZmRmBmRmBmZmZmZmZmZmZmZkZkZkZkZmZmRmJmRmRmZmZmZmZmZmZmZmZmZmZmZmFmZmZmZmZmYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" />
  </a>
@@ -110,18 +145,9 @@ Hi 👋, I'm Ibrahim. A Data scientist from Tunisia.
  </a>
  
 </br>
- </br>
-<samp>
- Visit me on <a href="https://www.kaggle.com/ibrahimrouis"> 
- <img alt="Kaggle" src="http://img.shields.io/badge/-kaggle-white?style=flat-square&logo=kaggle&logoColor=20BEFF" />
-  </a> or <a href="https://www.github.com/ibrahimrouis"> 
- <img alt="Github" src="http://img.shields.io/badge/-github-white?style=flat-square&logo=github&logoColor=181717" />
-  </a>
- </br>
- Contact me on      <a href="https://www.linkedin.com/in/ibrahim-rouis/">
- <img alt="Linkedin" src="http://img.shields.io/badge/-linkedin-white?style=flat-square&logo=linkedin&logoColor=0A66C2" />
- </a>
-, or Send an <a href="mailto:ibrahim.rouis@yahoo.com"><img alt="Email" src="http://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail&logoColor=EA4335" /></a></samp>
+</br>
+ Contact me on      <a href="https://www.linkedin.com/in/ibrahim-rouis/"> Linkedin</a>
+, or Send an <a href="mailto:ibrahim.rouis@yahoo.com">Email</a></samp>
 
 </p>
 
